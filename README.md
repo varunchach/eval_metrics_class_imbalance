@@ -99,17 +99,6 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 - `matplotlib`: Plotting and visualization
 - `seaborn`: Statistical visualization
 
-## 📁 File Structure
-
-```
-ML_Demo/
-├── README.md                 # This file
-├── demo_ml.ipynb            # Main notebook
-├── DATASET_RECOMMENDATION.md # Dataset recommendations
-├── find_dataset_simple.py    # Dataset loading utilities
-├── find_dataset.py           # Dataset loading utilities
-├── load_credit_dataset.py    # Credit dataset loader
-└── test_dataset_load.py      # Dataset testing script
 ```
 
 ## 🚀 Getting Started
